@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@vue-jsx-vapor/eslint": "^3.2.19",
+    "@vue/theme": "^2.4.0",
+    "chart.js": "^4.5.1",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "jsx-repl": "0.0.16",
+    "vue": "3.6.0-rc.1",
+    "vue-jsx-vapor": "^3.2.19"
+  },
+  "devDependencies": {
+    "@shikijs/vitepress-twoslash": "^4.3.1",
+    "@ts-macro/twoslash": "^0.0.5",
+    "@types/node": "^26.1.1",
+    "vite": "^8.1.5",
+    "vitepress": "2.0.0-alpha.18"
+  }
+}

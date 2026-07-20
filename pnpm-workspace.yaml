@@ -1,0 +1,10 @@
+allowBuilds:
+  esbuild: true
+  vue-demi: true
+
+minimumReleaseAgeExclude:
+  - '@vue-jsx-vapor/*'
+  - vue-jsx-vapor@3.2.19
+
+overrides:
+  vue: 3.6.0-rc.1
