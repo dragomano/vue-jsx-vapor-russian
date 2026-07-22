@@ -130,7 +130,7 @@ export default defineConfig({
         {
           text: 'Базовый курс',
           items: [
-            { text: '1. Getting Started', link: '/tutorial/step-1/' },
+            { text: '1. Первые шаги', link: '/tutorial/step-1/' },
             { text: '2. Введение в JSX', link: '/tutorial/step-2/' },
             { text: '3. Привязка атрибутов', link: '/tutorial/step-3/' },
             { text: '4. Привязка событий', link: '/tutorial/step-4/' },
