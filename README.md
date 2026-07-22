@@ -2,7 +2,7 @@
 
 [![Версия NPM](https://img.shields.io/npm/v/vue-jsx-vapor?color=a1b858&label=)](https://npmx.dev/package/vue-jsx-vapor)
 
-Режим Vapor для Vue JSX (русскоязычная документация).
+Vapor Mode для Vue JSX (русскоязычная документация).
 
 ## Возможности
 

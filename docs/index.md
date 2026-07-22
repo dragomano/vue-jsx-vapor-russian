@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Vue JSX Vapor"
   text: "Типобезопасность, удобство, скорость"
-  tagline: Vue JSX с поддержкой режима Vapor
+  tagline: Vue JSX с поддержкой Vapor Mode
   image:
     src: /logo.svg
     alt: Vue JSX Vapor
