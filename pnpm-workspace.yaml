@@ -4,7 +4,7 @@ allowBuilds:
 
 minimumReleaseAgeExclude:
   - '@vue-jsx-vapor/*'
-  - vue-jsx-vapor@3.2.19
+  - vue-jsx-vapor@3.2.19 || 3.2.22
 
 overrides:
   vue: 3.6.0-rc.1

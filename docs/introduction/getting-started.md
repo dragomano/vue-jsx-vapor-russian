@@ -25,7 +25,7 @@ Vue JSX Vapor — это компилятор Vue JSX, вдохновлённы�
 pnpm add vue-jsx-vapor
 
 # Рантайм
-pnpm add vue@3.6.0-rc.4
+pnpm add vue@3.6.0-rc.5
 ```
 
 ## Настройка {#configuration}
