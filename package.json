@@ -8,19 +8,19 @@
     "preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@vue-jsx-vapor/eslint": "^3.2.25",
+    "@vue-jsx-vapor/eslint": "^3.2.26",
     "@vue/theme": "^2.4.0",
     "chart.js": "^4.5.1",
     "chartjs-plugin-datalabels": "^2.2.0",
     "jsx-repl": "0.0.20",
-    "vue": "3.6.0-rc.9",
-    "vue-jsx-vapor": "^3.2.25"
+    "vue": "3.6.0-rc.10",
+    "vue-jsx-vapor": "^3.2.26"
   },
   "devDependencies": {
-    "@shikijs/vitepress-twoslash": "^4.4.3",
+    "@shikijs/vitepress-twoslash": "^4.5.0",
     "@ts-macro/twoslash": "^0.0.5",
-    "@types/node": "^26.6.2",
-    "vite": "^8.3.0",
+    "@types/node": "^26.6.4",
+    "vite": "^8.3.2",
     "vitepress": "2.0.0-alpha.20"
   }
 }
