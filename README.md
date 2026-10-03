@@ -109,3 +109,25 @@ build({
 ```
 
 <br></details>
+
+<details>
+<summary>Parcel</summary><br>
+
+Установите [`parcel-transformer-vue-tsx`](https://github.com/idea2app/Parcel-transformer-Vue-TSX) и добавьте его в ваш `.parcelrc`:
+
+```bash
+npm i -D parcel @parcel/config-default parcel-transformer-vue-tsx @vue-jsx-vapor/runtime
+```
+
+```json
+{
+  "extends": "@parcel/config-default",
+  "transformers": {
+    "*.tsx": ["parcel-transformer-vue-tsx", "..."]
+  }
+}
+```
+
+Если в вашем проекте используются Vue Vapor TSX вместе с другими вариантами TSX, используйте более точный паттерн, например `*.vapor.tsx`.
+
+<br></details>
